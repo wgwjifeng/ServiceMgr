@@ -4,6 +4,11 @@
 
 采用 Visual Studio 2013 Update 5 编写。
 
+### 程序截图
+
+![image](https://github.com/nmgwddj/ServiceMgr/blob/master/Screenshot/2016-01-24_180407.png)
+![image](https://github.com/nmgwddj/ServiceMgr/blob/master/Screenshot/2016-01-24_180412.png)
+
 ### OpenSCManager
 
 ```
